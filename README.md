@@ -1,1 +1,2 @@
-update read me .md
+# how to work with linux
+using vagrant
